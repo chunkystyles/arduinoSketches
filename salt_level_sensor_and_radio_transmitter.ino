@@ -11,7 +11,7 @@
 
 #define echoPin 15
 #define trigPin 14
-#define wait 60000
+#define wait 3600000
 #define messageSize 10
 
 long distance;
